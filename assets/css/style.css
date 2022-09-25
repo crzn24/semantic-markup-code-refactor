@@ -159,7 +159,11 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    
+}
+
+dt {
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 
 aside h3 {
@@ -172,18 +176,6 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-dt {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-
-
-
-
 
 
 footer {
