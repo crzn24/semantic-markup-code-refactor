@@ -104,16 +104,6 @@ section h2 {
     font-size: 36px;
 }
 
-
-
-
-
-
-
-
-
-
-
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -125,7 +115,7 @@ aside {
     background-color: #2589bd;
 }
 
-dt {
+aside dt {
     margin-bottom: 32px;
     color: #ffffff;
 }
