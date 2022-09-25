@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
 
 header {
     padding: 20px;
@@ -16,7 +19,7 @@ header {
     color: #ffffff;
 }
 
-
+/* Logo */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,6 +29,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/* Navigation bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,21 +44,15 @@ nav ul li {
     margin-left: 25px;
 }
 
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 
 
-
-
-
-.hero {
+/* Main page image */
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,13 +61,7 @@ p {
     background-position: center;
 }
 
-/*A team of four people having a digital marketing meeting.*/
-
-
-
-
-
-
+/* Main content sections */
 .content {
     width: 75%;
     display: inline-block;
@@ -104,6 +96,7 @@ section h2 {
     font-size: 36px;
 }
 
+/* Right sidebar area */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -131,7 +124,7 @@ aside img {
     max-width: 150px;
 }
 
-
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
